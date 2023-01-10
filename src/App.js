@@ -3,11 +3,9 @@ import { BrowserRouter, Route, Routes } from "react-router-dom";
 import About from "./About";
 import Header from "./Header";
 import Home from "./Home";
-import Parent from "./props/Parent";
 import Product from "./Product";
 import Service from "./Service";
-import Stateclass from "./stateinclass/Stateclass";
-import Statefunction from "./stateinfunction/Statefunction";
+
 
 const App = () => {
   return (
